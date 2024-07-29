@@ -8,3 +8,4 @@ To use a notebook, open the notebook file in Github and click the 'Open in Colab
 
 Currently available notebooks:
 - [Downloading Long Energy Data](https://github.com/wattwatchers/rest-api-notebooks/blob/main/wattwatchers_rest_api_v3_long_energy.ipynb)
+- [Downloading Modbus Data](https://github.com/wattwatchers/rest-api-notebooks/blob/main/wattwatchers_rest_api_v3_modbus.ipynb)
